@@ -1,4 +1,4 @@
-# superCharactersProject
+# Super-Combat
 "As a user, I can click on the "Fight" button. This pulls two random characters from the database, and displays their corresponding information on the page."
 
 "As a user, I can click on the "Our previous, our next, enemy previous, enemy next" to pull a character corresponding to the button clicked."
